@@ -1,0 +1,28 @@
+{
+  "Source": [
+    "USNM176236-Cranium_merged_1.ply",
+    "USNM084655-Cranium_merged_1.ply",
+    "USNM590953_CRANIUM.ply",
+    "USNM599167_CRANIUM.ply",
+    "USNM142185-Cranium.ply",
+    "USNM153830-Cranium.ply"
+  ],
+  "SourceLandmarks": "C:/Users/czhan2/Desktop/Apes MALPACA/MALPACA_data/GS_two_LM_sets/median_LM",
+  "Models": "C:/Users/czhan2/Desktop/Apes MALPACA/MALPACA_data/all_models_decimated0.5",
+  "Output": "C:/Users/czhan2/Desktop/Apes MALPACA/MALPACA_output/kmeans_590953_corrected4",
+  "Skip scaling ?": false,
+  "projectionFactor": 0.01,
+  "pointDensity": 1,
+  "normalSearchRadius": 2,
+  "FPFHSearchRadius": 5,
+  "distanceThreshold": 1.5,
+  "maxRANSAC": 4000000,
+  "maxRANSACValidation": 500,
+  "ICPDistanceThreshold": 0.4,
+  "alpha": 2,
+  "beta": 2,
+  "CPDIterations": 100,
+  "CPDTolerance": 0.001,
+  "Acceleration": true,
+  "BCPDFolder": "C:/Users/czhan2/Desktop/bcpd-master/bcpd-master/win"
+}
