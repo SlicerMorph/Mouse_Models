@@ -251,20 +251,8 @@
                     "positionStatus": "defined"
                 },
                 {
-                    "id": "vtkMRMLMarkupsFiducialNode_21",
-                    "label": "21",
-                    "description": "",
-                    "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
-                    "position": [-4.24184, -9.76831, 8.03832],
-                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
-                    "selected": true,
-                    "locked": true,
-                    "visibility": true,
-                    "positionStatus": "defined"
-                },
-                {
                     "id": "vtkMRMLMarkupsFiducialNode_22",
-                    "label": "22",
+                    "label": "21",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-5.03649, -7.05443, 8.6339],
@@ -276,7 +264,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_23",
-                    "label": "23",
+                    "label": "22",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-11.1863, -20.6697, 9.544],
@@ -288,7 +276,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_24",
-                    "label": "24",
+                    "label": "23",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-12.1417, -17.6788, 10.5116],
@@ -300,7 +288,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_25",
-                    "label": "25",
+                    "label": "24",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-11.9025, -14.4128, 11.1044],
@@ -312,7 +300,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_26",
-                    "label": "26",
+                    "label": "25",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-11.6073, -13.5016, 6.88147],
@@ -323,20 +311,8 @@
                     "positionStatus": "defined"
                 },
                 {
-                    "id": "vtkMRMLMarkupsFiducialNode_27",
-                    "label": "27",
-                    "description": "",
-                    "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
-                    "position": [-14.2701, -9.57289, 8.16085],
-                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
-                    "selected": true,
-                    "locked": true,
-                    "visibility": true,
-                    "positionStatus": "defined"
-                },
-                {
                     "id": "vtkMRMLMarkupsFiducialNode_28",
-                    "label": "28",
+                    "label": "26",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-13.2941, -6.79613, 8.70805],
@@ -348,7 +324,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_29",
-                    "label": "29",
+                    "label": "27",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-9.32912, -23.6143, 7.54105],
@@ -360,7 +336,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_30",
-                    "label": "30",
+                    "label": "28",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-12.1848, -18.8813, 9.65054],
@@ -372,7 +348,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_31",
-                    "label": "31",
+                    "label": "29",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-6.3698, -18.8828, 9.55311],
@@ -384,7 +360,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_32",
-                    "label": "32",
+                    "label": "30",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-9.56209, -21.1304, 7.29333],
@@ -396,7 +372,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_33",
-                    "label": "33",
+                    "label": "31",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-9.02204, -21.086, 7.2307],
@@ -408,7 +384,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_34",
-                    "label": "34",
+                    "label": "32",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-10.3135, -19.8375, 7.12733],
@@ -420,7 +396,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_35",
-                    "label": "35",
+                    "label": "33",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-8.29292, -19.8224, 6.99884],
@@ -432,7 +408,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_36",
-                    "label": "36",
+                    "label": "34",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-11.3978, -18.9966, 7.11561],
@@ -444,7 +420,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_37",
-                    "label": "37",
+                    "label": "35",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-7.26399, -18.9982, 7.02183],
@@ -456,7 +432,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_38",
-                    "label": "38",
+                    "label": "36",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-10.9981, -17.7993, 6.73492],
@@ -468,7 +444,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_39",
-                    "label": "39",
+                    "label": "37",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-7.67415, -17.8023, 6.64358],
@@ -480,7 +456,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_40",
-                    "label": "40",
+                    "label": "38",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-9.76438, -16.9425, 6.89549],
@@ -492,7 +468,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_41",
-                    "label": "41",
+                    "label": "39",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-8.88613, -16.897, 6.89409],
@@ -504,7 +480,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_42",
-                    "label": "42",
+                    "label": "40",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-9.93259, -15.9658, 6.54343],
@@ -516,7 +492,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_43",
-                    "label": "43",
+                    "label": "41",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-9.31767, -15.3006, 6.17431],
@@ -528,7 +504,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_44",
-                    "label": "44",
+                    "label": "42",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-8.79276, -16.1567, 6.56169],
@@ -540,7 +516,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_45",
-                    "label": "45",
+                    "label": "43",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-14.6877, -14.5472, 6.59948],
@@ -552,7 +528,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_46",
-                    "label": "46",
+                    "label": "44",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-10.9051, -14.4347, 5.83528],
@@ -564,7 +540,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_47",
-                    "label": "47",
+                    "label": "45",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-9.45197, -13.9027, 5.57582],
@@ -576,7 +552,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_48",
-                    "label": "48",
+                    "label": "46",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-7.79134, -14.4881, 5.7504],
@@ -588,7 +564,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_49",
-                    "label": "49",
+                    "label": "47",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-4.01084, -14.8171, 6.42133],
@@ -600,7 +576,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_50",
-                    "label": "50",
+                    "label": "48",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-14.1208, -12.2168, 7.35611],
@@ -612,7 +588,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_51",
-                    "label": "51",
+                    "label": "49",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-4.33828, -12.4494, 7.05718],
@@ -624,7 +600,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_52",
-                    "label": "52",
+                    "label": "50",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-9.2806, -10.13, 5.1433],
@@ -636,7 +612,7 @@
                 },
                 {
                     "id": "vtkMRMLMarkupsFiducialNode_53",
-                    "label": "53",
+                    "label": "51",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
                     "position": [-9.28828, -7.84729, 4.65899],
