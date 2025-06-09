@@ -239,11 +239,11 @@
                     "positionStatus": "defined"
                 },
                 {
-                    "id": "vtkMRMLMarkupsFiducialNode_20",
+                    "id": "vtkMRMLMarkupsFiducialNode_21",
                     "label": "20",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
-                    "position": [-8.18098, -15.2593, 7.8525],
+                    "position": [-3.98338, -8.79727, 8.00971],
                     "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
                     "selected": true,
                     "locked": true,
@@ -299,11 +299,11 @@
                     "positionStatus": "defined"
                 },
                 {
-                    "id": "vtkMRMLMarkupsFiducialNode_26",
+                    "id": "vtkMRMLMarkupsFiducialNode_27",
                     "label": "25",
                     "description": "",
                     "associatedNodeID": "vtkMRMLVectorVolumeNode12\r",
-                    "position": [-11.9113, -13.3632, 7.16979],
+                    "position": [-14.6636, -8.6813, 8.28691],
                     "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
                     "selected": true,
                     "locked": true,
